@@ -1,0 +1,6 @@
+[submodule "lab6/--force"]
+	path = lab6/--force
+	url = https://github.com/google/googletest.git
+[submodule "lab6/lib/googletest-main"]
+	path = lab6/lib/googletest-main
+	url = https://github.com/google/googletest.git
